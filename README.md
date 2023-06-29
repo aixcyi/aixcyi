@@ -29,11 +29,11 @@
         </td>
     </tr>
 </table>
+
 **备注**：以上统计仅限于GitHub，其它地方比如公司内的提交并未统计。  
 **NOTE**: Not include repos and commits out of GitHub, such as company.
 
 ### 特别鸣谢／Special Thanks
 
-- 首部图片来自[翌风](https://www.pixiv.net/users/23694308)[《聆》](https://www.pixiv.net/artworks/78192650)。
-- Banner image ["聆"](https://www.pixiv.net/artworks/78192650), created by [翌风](https://www.pixiv.net/users/23694308).
+- 首部图片来自[翌风](https://www.pixiv.net/users/23694308)[《聆》](https://www.pixiv.net/artworks/78192650)（Banner image ["聆"](https://www.pixiv.net/artworks/78192650), created by [翌风](https://www.pixiv.net/users/23694308)）
 

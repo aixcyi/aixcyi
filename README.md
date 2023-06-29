@@ -6,7 +6,7 @@
 
 | Python                                                       | Django                                                       | Django Rest Framework                                        |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" alt="python" style="height:108px" /> | <img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png" alt="Django" style="height:108px" /> | <img src="https://www.django-rest-framework.org/img/logo.png" alt="DRF" style="height:108px;" /> |
+| <img src="./img/python-logo.png" alt="Python Logo" style="height:108px" /> | <img src="./img/django-logo.png" alt="Django Logo" style="height:108px" /> | <img src="./img/django-rest-framework-logo.png" alt="Django Rest Framework Logo" style="height:108px;" /> |
 
 ### GitHub Stats
 

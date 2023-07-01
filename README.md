@@ -5,8 +5,14 @@
     <h3>Hi there, I'm aixcyi</h3>
 </div>
 
+### 偏好／Theme Preference
 
-### 语言框架／Languages and Frameworks
+> 切换到以下主题可获得更佳的浏览体验。  
+> Sets following theme for a better browsing experience.
+
+Dark Protanopia & Deuteranopia -> https://github.com/settings/appearance
+
+### 框架／Languages and Frameworks
 
 | Python[^1]                                                   | Django[^2]                                                   | Django Rest Framework[^3]                                    | Java[^4]                          |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | --------------------------------- |
@@ -17,7 +23,7 @@
 [^3]: Django Rest Framework Logo: https://www.django-rest-framework.org/
 [^4]: Java Logo: https://icons8.com/icon/13679/java
 
-### 统计数据／GitHub Stats
+### 统计／GitHub Stats
 
 > 以下统计仅限于GitHub，其它地方比如公司内的提交并未统计。  
 > Not include repos and commits out of GitHub, such as company.
@@ -33,7 +39,7 @@
     </tr>
 </table>
 
-### 特别鸣谢／Special Thanks
+### 鸣谢／Special Thanks
 
 - 头像图片来自[錯誤](https://www.pixiv.net/users/1297556)[《犬灰》](https://www.pixiv.net/artworks/51625987)（User avatar ["犬灰"](https://www.pixiv.net/artworks/51625987), created by [錯誤](https://www.pixiv.net/users/1297556)）
 - 首部图片来自[翌风](https://www.pixiv.net/users/23694308)[《聆》](https://www.pixiv.net/artworks/78192650)（Banner image ["聆"](https://www.pixiv.net/artworks/78192650), created by [翌风](https://www.pixiv.net/users/23694308)）

@@ -12,7 +12,7 @@
 
 Dark Protanopia & Deuteranopia -> https://github.com/settings/appearance
 
-### 框架／Languages and Frameworks
+### 技术／Languages & Frameworks
 
 | Python[^1]                                                   | Django[^2]                                                   | Django Rest Framework[^3]                                    | Java[^4]                          |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | --------------------------------- |

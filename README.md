@@ -1,4 +1,4 @@
-![head](./img/head.jpg)
+[![head](./img/head.jpg)](https://www.pixiv.net/artworks/78192650)
 
 <div align="center">
     <h1 style="padding-top: 32px">你好，这里是砹小翼</h1>
@@ -16,7 +16,7 @@ Dark Protanopia & Deuteranopia -> https://github.com/settings/appearance
 
 | Python[^1]                                                   | Django[^2]                                                   | Django Rest Framework[^3]                                    | Java[^4]                          |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | --------------------------------- |
-| <img src="./img/python-logo.png" alt="Python Logo" style="height:64px" /> | <img src="./img/django-logo.png" alt="Django Logo" style="height:64px" /> | <img src="./img/django-rest-framework-logo.png" alt="Django Rest Framework Logo" style="height:64px;" /> | ![Java Logo](./img/java-logo.png) |
+| <a href="https://www.python.org/"><img src="./img/python-logo.png" alt="Python Logo" style="height:64px" /></a> | <a href="https://www.djangoproject.com/"><img src="./img/django-logo.png" alt="Django Logo" style="height:64px" /></a> | <a href="https://www.django-rest-framework.org/"><img src="./img/django-rest-framework-logo.png" alt="Django Rest Framework Logo" style="height:64px;" /></a> | <a href="https://docs.oracle.com/javase/8/docs/api/"><img src="./img/java-logo.png" alt="Java Logo" style="height:64px;" /></a> |
 
 [^1]: Python Logo：https://www.python.org/community/logos/
 [^2]: Django Logo: https://www.djangoproject.com/community/logos/
@@ -31,10 +31,14 @@ Dark Protanopia & Deuteranopia -> https://github.com/settings/appearance
 <table>
     <tr>
         <td>
-            <img src="https://github-readme-stats.vercel.app/api?username=aixcyi&theme=github_dark&show_icons=true&hide_border=true" alt="stats" />
+            <a href="https://github.com/anuraghazra/github-readme-stats">
+                <img src="https://github-readme-stats.vercel.app/api?username=aixcyi&theme=github_dark&show_icons=true&hide_border=true" alt="GitHub Stats" />
+            </a>
         </td>
         <td>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aixcyi&theme=github_dark&hide_border=true" alt="Top Langs" />
+            <a href="https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_cn.md">
+                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aixcyi&theme=github_dark&hide_border=true" alt="Top Langs" />
+            </a>
         </td>
     </tr>
 </table>

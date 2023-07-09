@@ -25,8 +25,8 @@ Dark Protanopia & Deuteranopia -> https://github.com/settings/appearance
 
 ### 统计／GitHub Stats
 
-> 以下统计仅限于GitHub，其它地方比如公司内的提交并未统计。  
-> Not include repos and commits out of GitHub, such as company.
+> 以下统计仅限于GitHub今年的情况，其它时间和地方比如公司内的提交并未统计。  
+> Not include repos and commits out of GitHub on this year.
 
 <table>
     <tr>

@@ -37,7 +37,7 @@ Dark Protanopia & Deuteranopia -> https://github.com/settings/appearance
         </td>
         <td>
             <a href="https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_cn.md">
-                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aixcyi&theme=github_dark&hide_border=true" alt="Top Langs" />
+                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aixcyi&theme=github_dark&hide_border=true&layout=compact" alt="Top Langs" />
             </a>
         </td>
     </tr>

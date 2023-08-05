@@ -1,7 +1,8 @@
 [![head](./img/head.jpg)](https://www.pixiv.net/artworks/78192650)
 
 <div align="center">
-    <h1 style="padding-top: 32px">砹小翼 —— 后端开发 furry</h1>
+    <h1 style="padding-top: 32px">砹小翼</h1>
+    <img src="./img/slogan.png" style="padding-bottom: 20px"></img><br>
     <i>Dark Protanopia & Deuteranopia</i><br>
     &gt;&nbsp;https://github.com/settings/appearance&nbsp;&lt;
 </div>

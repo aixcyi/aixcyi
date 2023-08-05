@@ -18,6 +18,8 @@
 
 ## 日历／Contribution
 
+> 最近30周数据。Just include last 30 weeks.
+
 [![Contributions](https://ssr-contributions-svg.vercel.app/_/aixcyi?chart=3dbar&light=45&gradient=true&animation=mess&animation_duration=4&format=svg&weeks=30&dark=true)](https://ssr-contributions-svg.vercel.app/)
 
 ## 统计／Stats
@@ -29,11 +31,11 @@
     <img align="top" alt="GitHub Contribution Stats" src="https://github-contributor-stats.vercel.app/api?username=aixcyi&theme=github_dark&hide_border=true">
 </a>
 
-## 链接／Todo
+## 访客／Views Counter
 
-[![Gelbooru](https://count.getloli.com/get/@demo?theme=gelbooru)](https://github.com/journey-ad/Moe-Counter)
+[![Gelbooru](https://count.getloli.com/get/@aixcyi?theme=gelbooru)](https://github.com/journey-ad/Moe-Counter)
 
-## 鸣谢／Thanks
+## 鸣谢／Special Thanks
 
 - 头像图片来自[錯誤](https://www.pixiv.net/users/1297556)[《犬灰》](https://www.pixiv.net/artworks/51625987)（User avatar ["犬灰"](https://www.pixiv.net/artworks/51625987), created by [錯誤](https://www.pixiv.net/users/1297556)）
 - 首部图片来自[翌风](https://www.pixiv.net/users/23694308)[《聆》](https://www.pixiv.net/artworks/78192650)（Banner image ["聆"](https://www.pixiv.net/artworks/78192650), created by [翌风](https://www.pixiv.net/users/23694308)）

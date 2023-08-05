@@ -16,6 +16,10 @@
     <img align="center" src="https://skillicons.dev/icons?i=py,django,java,regex,postgres,vscode,idea,git,github,stackoverflow&perline=7" />
 </a>
 
+## 日历／Contribution
+
+[![Contributions](https://ssr-contributions-svg.vercel.app/_/aixcyi?chart=3dbar&light=45&gradient=true&animation=mess&animation_duration=4&format=svg&weeks=30&dark=true)](https://ssr-contributions-svg.vercel.app/)
+
 ## 统计／Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -24,10 +28,6 @@
 <a href="https://github.com/HwangTaehyun/github-repository-contribution-stats">
     <img align="top" alt="GitHub Contribution Stats" src="https://github-contributor-stats.vercel.app/api?username=aixcyi&theme=github_dark&hide_border=true">
 </a>
-
-## 日历／Contribution
-
-[![Contributions](https://ssr-contributions-svg.vercel.app/_/aixcyi?chart=3dbar&light=45&gradient=true&animation=mess&animation_duration=4&format=svg&weeks=30&dark=true)](https://ssr-contributions-svg.vercel.app/)
 
 ## 链接／Todo
 

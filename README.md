@@ -33,6 +33,8 @@
 
 ## 访客／Views Counter
 
+> 2023-08-06 00:00 +08:00 ~ 现在
+
 [![Gelbooru](https://count.getloli.com/get/@aixcyi?theme=gelbooru)](https://github.com/journey-ad/Moe-Counter)
 
 ## 鸣谢／Special Thanks

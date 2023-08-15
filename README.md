@@ -10,7 +10,17 @@
 ## 技术／Skills
 
 <a href="https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_cn.md">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aixcyi&theme=github_dark&hide_border=true&layout=donut&hide_title=true" />
+    <picture>
+        <source
+            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=aixcyi&hide_border=true&layout=donut&hide_title=true&theme=github_dark"
+            media="(prefers-color-scheme: dark)"
+        />
+        <source
+            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=aixcyi&hide_border=true&layout=donut&hide_title=true"
+            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        />
+        <img align="center" alt="技术栈列表" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aixcyi&hide_border=true&layout=donut&hide_title=true" />
+    </picture>
 </a>
 <a href="https://skillicons.dev">
     <img align="center" src="https://skillicons.dev/icons?i=py,django,java,regex,postgres,vscode,idea,git,github,stackoverflow&perline=7" />
@@ -20,32 +30,54 @@
 
 > 最近30周数据。Just include last 30 weeks.
 
-[![Contributions](https://ssr-contributions-svg.vercel.app/_/aixcyi?chart=3dbar&light=45&gradient=true&animation=mess&animation_duration=4&format=svg&weeks=30&dark=true)](https://ssr-contributions-svg.vercel.app/)
+<a href="https://ssr-contributions-svg.vercel.app/">
+    <picture>
+        <source
+            srcset="https://ssr-contributions-svg.vercel.app/_/aixcyi?chart=3dbar&light=45&gradient=true&animation=mess&animation_duration=4&format=svg&weeks=30&dark=true"
+            media="(prefers-color-scheme: dark)"
+        />
+        <source
+            srcset="https://ssr-contributions-svg.vercel.app/_/aixcyi?chart=3dbar&light=45&gradient=true&animation=mess&animation_duration=4&format=svg&weeks=30"
+            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        />
+        <img align="top" alt="贡献统计日历" src="https://ssr-contributions-svg.vercel.app/_/aixcyi?chart=3dbar&light=45&gradient=true&animation=mess&animation_duration=4&format=svg&weeks=30" />
+    </picture>
+</a>
 
 ## 统计／Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=aixcyi&show_icons=true&hide_border=true&show=reviews,discussions_started,discussions_answered&rank_icon=percentile"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=aixcyi&show_icons=true&hide_border=true&show=reviews,discussions_started,discussions_answered&rank_icon=percentile&theme=github_dark"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img align="top" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=aixcyi&show_icons=true&hide_border=true&show=reviews,discussions_started,discussions_answered&rank_icon=percentile" />
-</picture>
+        <source
+            srcset="https://github-readme-stats.vercel.app/api?username=aixcyi&show_icons=true&hide_border=true&show=reviews%2Cdiscussions_started%2Cdiscussions_answered&rank_icon=percentile&theme=github_dark"
+            media="(prefers-color-scheme: dark)"
+        />
+        <source
+            srcset="https://github-readme-stats.vercel.app/api?username=aixcyi&show_icons=true&hide_border=true&show=reviews%2Cdiscussions_started%2Cdiscussions_answered&rank_icon=percentile"
+            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        />
+        <img align="top" alt="GitHub 统计" src="https://github-readme-stats.vercel.app/api?username=aixcyi&show_icons=true&hide_border=true&show=reviews%2Cdiscussions_started%2Cdiscussions_answered&rank_icon=percentile" />
+    </picture>
 </a>
 <a href="https://github.com/HwangTaehyun/github-repository-contribution-stats">
-    <img align="top" alt="GitHub Contribution Stats" src="https://github-contributor-stats.vercel.app/api?username=aixcyi&theme=github_dark&hide_border=true">
+    <picture>
+        <source
+            srcset="https://github-contributor-stats.vercel.app/api?username=aixcyi&hide_border=true&theme=github_dark"
+            media="(prefers-color-scheme: dark)"
+        />
+        <source
+            srcset="https://github-contributor-stats.vercel.app/api?username=aixcyi&hide_border=true"
+            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        />
+        <img align="top" alt="GitHub 贡献统计" src="https://github-contributor-stats.vercel.app/api?username=aixcyi&hide_border=true&theme=github_dark">
+    </picture>
 </a>
 
 ## 访客／Views Counter
 
 > 2023-08-06 00:00 +08:00 ~ 现在
 
-[![Gelbooru](https://count.getloli.com/get/@aixcyi?theme=gelbooru)](https://github.com/journey-ad/Moe-Counter)
+[![访客计数](https://count.getloli.com/get/@aixcyi?theme=gelbooru)](https://github.com/journey-ad/Moe-Counter)
 
 ## 鸣谢／Special Thanks
 

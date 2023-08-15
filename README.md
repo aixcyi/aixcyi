@@ -25,7 +25,17 @@
 ## 统计／Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="top" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=aixcyi&theme=github_dark&show_icons=true&hide_border=true&show=reviews,discussions_started,discussions_answered" />
+    <picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=aixcyi&show_icons=true&hide_border=true&show=reviews,discussions_started,discussions_answered&rank_icon=percentile"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=aixcyi&show_icons=true&hide_border=true&show=reviews,discussions_started,discussions_answered&rank_icon=percentile&theme=github_dark"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img align="top" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=aixcyi&show_icons=true&hide_border=true&show=reviews,discussions_started,discussions_answered&rank_icon=percentile" />
+</picture>
 </a>
 <a href="https://github.com/HwangTaehyun/github-repository-contribution-stats">
     <img align="top" alt="GitHub Contribution Stats" src="https://github-contributor-stats.vercel.app/api?username=aixcyi&theme=github_dark&hide_border=true">

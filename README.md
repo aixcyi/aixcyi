@@ -19,21 +19,21 @@
             srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=aixcyi&hide_border=true&layout=donut&hide_title=true"
             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
         />
-        <img align="center" alt="技术栈列表" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aixcyi&hide_border=true&layout=donut&hide_title=true" />
+        <img align="center" alt="开发语言使用频率" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aixcyi&hide_border=true&layout=donut&hide_title=true" />
     </picture>
 </a>
 <a href="https://skillicons.dev">
     <picture>
         <source
-            srcset="https://skillicons.dev/icons?i=py,django,java,regex,postgres,vscode,idea,git,github,stackoverflow&perline=7"
+            srcset="https://skillicons.dev/icons?i=py%2Cdjango%2Cjava%2Cregex%2Cpostgres%2Cvscode%2Cidea%2Cgit%2Cgithub%2Cstackoverflow&perline=7"
             media="(prefers-color-scheme: dark)"
         />
         <source
-            srcset="https://skillicons.dev/icons?i=py,django,java,regex,postgres,vscode,idea,git,github,stackoverflow&perline=7&theme=light"
+            srcset="https://skillicons.dev/icons?i=py%2Cdjango%2Cjava%2Cregex%2Cpostgres%2Cvscode%2Cidea%2Cgit%2Cgithub%2Cstackoverflow&perline=7&theme=light"
             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
         />
+        <img align="center" alt="技术栈工具列表" src="https://skillicons.dev/icons?i=py%2Cdjango%2Cjava%2Cregex%2Cpostgres%2Cvscode%2Cidea%2Cgit%2Cgithub%2Cstackoverflow&perline=7&theme=light" />
     </picture>
-    <img align="center" alt="技术栈" src="https://skillicons.dev/icons?i=py,django,java,regex,postgres,vscode,idea,git,github,stackoverflow&perline=7" />
 </a>
 
 ## 日历／Contribution

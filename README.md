@@ -3,8 +3,8 @@
 <div align="center">
     <h1>砹小翼</h1>
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=8B949E&repeat=false&width=435&lines=%2Ftp+%40e%5Btype%3D%23furry%2Cdistance%3D0..%5D+%40s" alt="Typing SVG" /></a><br>
-    <i>Dark Protanopia & Deuteranopia</i><br>
-    &gt;&nbsp;https://github.com/settings/appearance&nbsp;&lt;
+    <i>Weblogs & ideas</i><br>
+    &gt;&nbsp;https://aixcyi.github.io/&nbsp;&lt;
 </div>
 
 ## 技术／Skills
@@ -23,7 +23,17 @@
     </picture>
 </a>
 <a href="https://skillicons.dev">
-    <img align="center" src="https://skillicons.dev/icons?i=py,django,java,regex,postgres,vscode,idea,git,github,stackoverflow&perline=7" />
+    <picture>
+        <source
+            srcset="https://skillicons.dev/icons?i=py,django,java,regex,postgres,vscode,idea,git,github,stackoverflow&perline=7"
+            media="(prefers-color-scheme: dark)"
+        />
+        <source
+            srcset="https://skillicons.dev/icons?i=py,django,java,regex,postgres,vscode,idea,git,github,stackoverflow&perline=7&theme=light"
+            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        />
+    </picture>
+    <img align="center" alt="技术栈" src="https://skillicons.dev/icons?i=py,django,java,regex,postgres,vscode,idea,git,github,stackoverflow&perline=7&theme=light" />
 </a>
 
 ## 日历／Contribution

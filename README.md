@@ -33,7 +33,7 @@
             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
         />
     </picture>
-    <img align="center" alt="技术栈" src="https://skillicons.dev/icons?i=py,django,java,regex,postgres,vscode,idea,git,github,stackoverflow&perline=7&theme=light" />
+    <img align="center" alt="技术栈" src="https://skillicons.dev/icons?i=py,django,java,regex,postgres,vscode,idea,git,github,stackoverflow&perline=7" />
 </a>
 
 ## 日历／Contribution

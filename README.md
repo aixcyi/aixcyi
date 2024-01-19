@@ -2,13 +2,13 @@
 
 <div align="center">
     <h1>砹小翼</h1>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=8B949E&repeat=false&width=435&lines=%2Ftp+%40e%5Btype%3D%23furry%2Cdistance%3D0..%5D+%40s" alt="Typing SVG" /></a><br>
-    <i>Weblogs & ideas</i><br>
+    <i>Not too old to learn, not too late to turn.</i><br>
     &gt;&nbsp;https://aixcyi.github.io/&nbsp;&lt;
 </div>
 
 ## 技术／Skills
 
+<div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_cn.md">
     <picture>
         <source
@@ -35,24 +35,25 @@
         <img align="center" alt="技术栈工具列表" src="https://skillicons.dev/icons?i=py%2Cdjango%2Cjava%2Cregex%2Cpostgres%2Cvscode%2Cidea%2Cgit%2Cgithub%2Cstackoverflow&perline=7&theme=light" />
     </picture>
 </a>
+</div>
 
-## 日历／Contribution
+## 年历／Contribution<sup>Last Year</sup>
 
-> 最近30周数据。Just include last 30 weeks.
-
+<div align="center">
 <a href="https://ssr-contributions-svg.vercel.app/">
     <picture>
         <source
-            srcset="https://ssr-contributions-svg.vercel.app/_/aixcyi?chart=3dbar&light=45&gradient=true&animation=mess&animation_duration=4&format=svg&weeks=30&dark=true"
+            srcset="https://ssr-contributions-svg.vercel.app/_/aixcyi?chart=3dbar&gap=0.6&scale=2&light=23&animation=fadeIn&weeks=50&theme=blue&format=svg&dark=true"
             media="(prefers-color-scheme: dark)"
         />
         <source
-            srcset="https://ssr-contributions-svg.vercel.app/_/aixcyi?chart=3dbar&light=45&gradient=true&animation=mess&animation_duration=4&format=svg&weeks=30"
+            srcset="https://ssr-contributions-svg.vercel.app/_/aixcyi?chart=3dbar&gap=0.6&scale=2&light=23&animation=fadeIn&weeks=50&theme=blue&format=svg"
             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
         />
-        <img align="top" alt="贡献统计日历" src="https://ssr-contributions-svg.vercel.app/_/aixcyi?chart=3dbar&light=45&gradient=true&animation=mess&animation_duration=4&format=svg&weeks=30" />
+        <img align="top" alt="贡献统计日历" src="https://ssr-contributions-svg.vercel.app/_/aixcyi?chart=3dbar&gap=0.6&scale=2&light=23&animation=fadeIn&weeks=50&theme=blue&format=svg" />
     </picture>
 </a>
+</div>
 
 ## 统计／Stats
 

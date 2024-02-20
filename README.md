@@ -2,7 +2,7 @@
 
 <div align="center">
     <h1>砹小翼</h1>
-    <i>Furry • Pythoner • IntelliJ Plugin Developer • Minecraft Operator • Animator</i><br>
+    <i>Furry • Pythonista • IntelliJ Plugin Developer • Minecraft Operator • DB Modeler • 3D Modeler</i><br>
     &gt;&nbsp;https://aixcyi.github.io/&nbsp;&lt;
 </div>
 

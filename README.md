@@ -2,8 +2,8 @@
 
 <div align="center">
     <h1>砹小翼</h1>
-    <i>Furry • Pythonista • IntelliJ Plugin Developer • Minecraft Operator • DB Modeler • 3D Modeler</i><br>
-    &gt;&nbsp;https://aixcyi.github.io/&nbsp;&lt;
+    <i>Seeds of stories, brought by the wind and cultivated by time.</i><br>
+    <a href="https://plugins.jetbrains.com/">Bubble Todo</a>｜<a href="https://quickref.me/">Quick Reference</a>
 </div>
 
 ## 技术／Skills
@@ -19,7 +19,7 @@
             srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=aixcyi&hide_border=true&layout=donut&hide_title=true"
             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
         />
-        <img align="center" alt="开发语言使用频率" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aixcyi&hide_border=true&layout=donut&hide_title=true" />
+        <img align="center" alt="开发语言使用频率图" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aixcyi&hide_border=true&layout=donut&hide_title=true" />
     </picture>
 </a>
 <a href="https://skillicons.dev">
@@ -52,7 +52,7 @@
             srcset="https://github-readme-stats.vercel.app/api?username=aixcyi&show_icons=true&hide_border=true&show=reviews%2Cdiscussions_started%2Cdiscussions_answered&rank_icon=percentile"
             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
         />
-        <img align="top" alt="GitHub 统计" src="https://github-readme-stats.vercel.app/api?username=aixcyi&show_icons=true&hide_border=true&show=reviews%2Cdiscussions_started%2Cdiscussions_answered&rank_icon=percentile" />
+        <img align="top" alt="GitHub 统计图" src="https://github-readme-stats.vercel.app/api?username=aixcyi&show_icons=true&hide_border=true&show=reviews%2Cdiscussions_started%2Cdiscussions_answered&rank_icon=percentile" />
     </picture>
 </a>
 <a href="https://github.com/HwangTaehyun/github-repository-contribution-stats">
@@ -65,7 +65,7 @@
             srcset="https://github-contributor-stats.vercel.app/api?username=aixcyi&hide_border=true"
             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
         />
-        <img align="top" alt="GitHub 贡献统计" src="https://github-contributor-stats.vercel.app/api?username=aixcyi&hide_border=true&theme=github_dark">
+        <img align="top" alt="GitHub 贡献统计图" src="https://github-contributor-stats.vercel.app/api?username=aixcyi&hide_border=true&theme=github_dark">
     </picture>
 </a>
 

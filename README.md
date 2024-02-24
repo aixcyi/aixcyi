@@ -39,7 +39,7 @@
 
 ## 统计／Stats
 
-1. 不包含组织的非公开仓库的提交情况。
+1. 不包含[组织](https://docs.github.com/zh/organizations/collaborating-with-groups-in-organizations/about-organizations)的非公开仓库的提交情况。
 2. 统计范围是 GitHub 近一年的数据，不包含码云、腾讯工蜂等其它代码托管平台的记录。
 
 <a href="https://github.com/anuraghazra/github-readme-stats">

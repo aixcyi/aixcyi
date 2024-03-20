@@ -3,7 +3,7 @@
 <div align="center">
     <h1>砹小翼</h1>
     <i>Seeds of stories, brought by the wind and cultivated by time.</i><br>
-    <a href="https://plugins.jetbrains.com/">Bubble Todo</a>｜<a href="https://quickref.me/">Quick Reference</a>
+    <a href="https://quickref.me/">速查表</a>｜<a href="https://quickref.me/">Quick Reference</a>
 </div>
 
 ## 技术／Skills

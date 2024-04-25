@@ -25,14 +25,14 @@
 <a href="https://skillicons.dev">
     <picture>
         <source
-            srcset="https://skillicons.dev/icons?i=py%2Cdjango%2Cgo%2Cregex%2Cjava%2Cpostgres%2Cidea%2Cvscode%2Clinux%2Cgithub%2Cgit%2cblender%2Cstackoverflow&perline=8"
+            srcset="https://skillicons.dev/icons?i=django%2Cpostgres%2Cidea%2Cvscode%2Clinux%2Cgithub%2Cgit%2Cregex%2cblender%2Cstackoverflow&perline=8"
             media="(prefers-color-scheme: dark)"
         />
         <source
-            srcset="https://skillicons.dev/icons?i=py%2Cdjango%2Cgo%2Cregex%2Cjava%2Cpostgres%2Cidea%2Cvscode%2Clinux%2Cgithub%2Cgit%2cblender%2Cstackoverflow&perline=8&theme=light"
+            srcset="https://skillicons.dev/icons?i=django%2Cpostgres%2Cidea%2Cvscode%2Clinux%2Cgithub%2Cgit%2Cregex%2cblender%2Cstackoverflow&perline=8&theme=light"
             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
         />
-        <img align="center" alt="技术栈工具列表（Skill list）" src="https://skillicons.dev/icons?i=py%2Cdjango%2Cgo%2Cregex%2Cjava%2Cpostgres%2Cidea%2Cvscode%2Clinux%2Cgithub%2Cgit%2cblender%2Cstackoverflow&perline=8&theme=light" />
+        <img align="center" alt="技术栈工具列表（Skill list）" src="https://skillicons.dev/icons?i=django%2Cpostgres%2Cidea%2Cvscode%2Clinux%2Cgithub%2Cgit%2Cregex%2cblender%2Cstackoverflow&perline=8&theme=light" />
     </picture>
 </a>
 </div>

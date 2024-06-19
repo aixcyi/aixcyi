@@ -3,10 +3,46 @@
 <div align="center">
     <h1>砹小翼</h1>
     <i>Seeds of stories, brought by the wind and cultivated by time.</i><br>
-    <a href="https://plugins.jetbrains.com/plugin/24140-tiny-snake">Tiny Snake</a>｜<a href="https://quickref.cn/">Quick Reference</a>
+    <a href="https://plugins.jetbrains.com/plugin/24140-tiny-snake">Tiny Snake</a>／<a href="https://quickref.cn/">Quick Reference</a>
 </div>
 
-## 技术／Skills
+## About Me
+
+```python
+from earth import Company, Person
+from world import SeniorDeveloper, Furry
+
+me: Person[Furry] = Person(nickname='砹小翼').graduate(2021)
+job: SeniorDeveloper = Company().offer(me)
+
+# Code is life, life is code.
+while me.alive:
+    work = me.unstash(job) or job.assign(me)
+    while not work.done:
+        try:
+            me.receive(*work.feedbacks)
+            me.discuss(*work.features, _with=[work.project.pm])
+            me.develop(use=['Python', 'Django', 'DRF'], on=['PyCharm', 'VSCode'])
+            me.push(to=[work.project.repo], reviewer=[work.project.pm])
+            work.service.restart(prescript=['migrate'])  # Maybe raise ServiceStopped
+            work.done = True
+        except Company.ServiceStopped as leader:
+            me.hotfix(logs=['Grafana', 'ECS.file'], debugger='PyCharm')
+            me.push(to=[work.project.repo], reviewer=[work.project.pm, leader])
+        except Person.OverWorkingTime:
+            me.stash(job, work)
+            break
+
+    me.unstash()
+    if len(me.ideas) == 0:
+        me.browse('github', 'bilibili', 'curseforge')
+    me.develop(*me.ideas, use=['Kotlin', 'Gradle', 'IntelliJ API'], on=['IDEA'])
+    me.push(to=['github', 'gitee'])
+    me.stash()
+    me.play('Minecraft', 'Genshin', _with=me.friends)
+```
+
+## Solution Stack
 
 <div>
 <a href="https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_cn.md">
@@ -19,7 +55,7 @@
             srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=aixcyi&hide_border=true&layout=donut&hide_title=true"
             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
         />
-        <img align="center" alt="开发语言使用频率图（Frequency of language use）" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aixcyi&hide_border=true&layout=donut&hide_title=true" />
+        <img align="center" alt="Frequency of language use" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aixcyi&hide_border=true&layout=donut&hide_title=true" />
     </picture>
 </a>
 <a href="https://skillicons.dev">
@@ -32,15 +68,12 @@
             srcset="https://skillicons.dev/icons?i=django%2Cpostgres%2Cidea%2Cvscode%2Clinux%2Cgithub%2Cgit%2Cregex%2cblender%2Cstackoverflow&perline=8&theme=light"
             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
         />
-        <img align="center" alt="技术栈工具列表（Skill list）" src="https://skillicons.dev/icons?i=django%2Cpostgres%2Cidea%2Cvscode%2Clinux%2Cgithub%2Cgit%2Cregex%2cblender%2Cstackoverflow&perline=8&theme=light" />
+        <img align="center" alt="Skill and tool list" src="https://skillicons.dev/icons?i=django%2Cpostgres%2Cidea%2Cvscode%2Clinux%2Cgithub%2Cgit%2Cregex%2cblender%2Cstackoverflow&perline=8&theme=light" />
     </picture>
 </a>
 </div>
 
-## 统计／Stats
-
-1. 不包含[组织](https://docs.github.com/zh/organizations/collaborating-with-groups-in-organizations/about-organizations)的非公开仓库的提交情况。
-2. 统计范围是 GitHub 近一年的数据，不包含码云、腾讯工蜂等其它代码托管平台的记录。
+## GitHub Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <picture>
@@ -69,8 +102,8 @@
     </picture>
 </a>
 
-## 访客／Views Counter
+## Views Count
 
-[![访客计数（Real time views counter）](https://count.getloli.com/get/@aixcyi?theme=gelbooru)](https://github.com/journey-ad/Moe-Counter)
+2023-08-06 00:00 +08:00 -- present
 
-- 统计范围是 2023-08-06 00:00 +08:00 ~ 现在
+[![Real time views counter](https://count.getloli.com/get/@aixcyi?theme=gelbooru)](https://github.com/journey-ad/Moe-Counter)

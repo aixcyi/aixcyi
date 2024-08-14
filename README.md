@@ -2,7 +2,7 @@
 
 <div align="center">
     <h1>砹小翼</h1>
-    <i>Seeds of stories, brought by the wind and cultivated by time.</i><br>
+    <span>𝑺𝒆𝒆𝒅𝒔 𝒐𝒇 𝒔𝒕𝒐𝒓𝒊𝒆𝒔, 𝒃𝒓𝒐𝒖𝒈𝒉𝒕 𝒃𝒚 𝒕𝒉𝒆 𝒘𝒊𝒏𝒅 𝒂𝒏𝒅 𝒄𝒖𝒍𝒕𝒊𝒗𝒂𝒕𝒆𝒅 𝒃𝒚 𝒕𝒊𝒎𝒆.</span><br>
     <a href="https://plugins.jetbrains.com/vendor/11e9e603-6ee7-457e-94e8-42e2f6f5e9bc">IntelliJ-based IDE Plugin</a>／<a href="https://quickref.cn/">Quick Reference</a>
 </div>
 
@@ -68,6 +68,6 @@
 
 ## Views Count
 
-2023-08-06 00:00 +08:00 -- present
+　𝟸𝟶𝟸𝟹-𝟶𝟾-𝟶𝟼 ◁▷ 𝚙𝚛𝚎𝚜𝚎𝚗𝚝
 
 [![Real time views counter](https://count.getloli.com/get/@aixcyi?theme=gelbooru)](https://github.com/journey-ad/Moe-Counter)

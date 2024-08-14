@@ -3,7 +3,7 @@
 <div align="center">
     <h1>砹小翼</h1>
     <i>Seeds of stories, brought by the wind and cultivated by time.</i><br>
-    <a href="https://plugins.jetbrains.com/plugin/24140-tiny-snake">Tiny Snake</a>／<a href="https://quickref.cn/">Quick Reference</a>
+    <a href="https://plugins.jetbrains.com/vendor/11e9e603-6ee7-457e-94e8-42e2f6f5e9bc">IntelliJ-based IDE Plugin</a>／<a href="https://quickref.cn/">Quick Reference</a>
 </div>
 
 ## Solution Stack

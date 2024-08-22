@@ -8,7 +8,8 @@
 
 ## Solution Stack
 
-　<a href="https://skillicons.dev">
+<div align="center">
+<a href="https://skillicons.dev">
     <picture>
         <source
             srcset="https://skillicons.dev/icons?i=py%2Cdjango%2Ckotlin%2Cjava%2Cgo%2Cregex%2Cmd%2Cpycharm%2Cidea%2Cvscode%2Cgit%2Canaconda%2Cpostgres%2Credis%2Cgrafana%2Cbash%2Cpowershell%2Cwindows%2Cubuntu%2Cgithub%2Cstackoverflow"
@@ -21,6 +22,7 @@
         <img align="center" alt="Skill and tool list" src="https://skillicons.dev/icons?i=py%2Cdjango%2Ckotlin%2Cjava%2Cgo%2Cregex%2Cmd%2Cpycharm%2Cidea%2Cvscode%2Cgit%2Canaconda%2Cpostgres%2Credis%2Cgrafana%2Cbash%2Cpowershell%2Cwindows%2Cubuntu%2Cgithub%2Cstackoverflow&theme=light" />
     </picture>
 </a>
+</div>
 
 ## GitHub Stats
 

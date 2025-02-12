@@ -1,25 +1,13 @@
-[![Head banner](./img/head.jpg)](https://www.pixiv.net/artworks/78192650)
+# 阿羽／Ayuu
 
-<div align="right">
-    <h1>砹小翼</h1>
-    <a href="https://skillicons.dev">
-    <picture>
-        <source
-            srcset="https://skillicons.dev/icons?i=py%2Cdjango%2Ckotlin%2Cjava%2Cbash%2Cregex%2Cmd%2Cgit%2Cpostgres%2Credis%2Cgrafana%2Cpycharm%2Cidea%2Cvscode"
-            media="(prefers-color-scheme: dark)"
-        />
-        <source
-            srcset="https://skillicons.dev/icons?i=py%2Cdjango%2Ckotlin%2Cjava%2Cbash%2Cregex%2Cmd%2Cgit%2Cpostgres%2Credis%2Cgrafana%2Cpycharm%2Cidea%2Cvscode&theme=light"
-            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-        />
-        <img align="center" alt="Skill and tool list" src="https://skillicons.dev/icons?i=py%2Cdjango%2Ckotlin%2Cjava%2Cbash%2Cregex%2Cmd%2Cgit%2Cpostgres%2Credis%2Cgrafana%2Cpycharm%2Cidea%2Cvscode&theme=light" />
-    </picture>
-    </a><br>
-    <a href="https://plugins.jetbrains.com/vendor/11e9e603-6ee7-457e-94e8-42e2f6f5e9bc">IntelliJ-based IDE Plugins</a>／<a href="https://quickref.cn/">Quick Reference</a><br>
-    <span>𝑺𝒆𝒆𝒅𝒔 𝒐𝒇 𝒔𝒕𝒐𝒓𝒊𝒆𝒔, 𝒃𝒓𝒐𝒖𝒈𝒉𝒕 𝒃𝒚 𝒕𝒉𝒆 𝒘𝒊𝒏𝒅 𝒂𝒏𝒅 𝒄𝒖𝒍𝒕𝒊𝒗𝒂𝒕𝒆𝒅 𝒃𝒚 𝒕𝒊𝒎𝒆.</span>
-</div>
+[![Website: https://ayuu.cc](https://img.shields.io/badge/website-ayuu.cc-mediumseagreen?style=for-the-badge)](https://ayuu.cc) [![Blog: https://blog.ayuu.cc](https://img.shields.io/badge/blog-blog.ayuu.cc-mediumorchid?style=for-the-badge)](https://blog.ayuu.cc) [![Chatting in QQ Group `699090940`](https://img.shields.io/badge/qq%20group-699090940-salmon?style=for-the-badge)](https://qm.qq.com/q/ZqCGqpMXy8)
 
-## GitHub Stats
+- Furry, but haven't owned an OC yet
+- Senior Django developer (full-time, from March 2021)
+- Designed and/or maintaing a catering system, a retail system, an e-commerce platform system
+- Once used nickname 砹小翼 and id `aixcyi`
+
+## Coding Statistics
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <picture>
@@ -48,9 +36,3 @@
         <img align="top" alt="Language Use Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aixcyi&layout=compact&hide_border=true" />
     </picture>
 </a>
-
-## Views Count
-
-　𝟸𝟶𝟸𝟹-𝟶𝟾-𝟶𝟼 ◁▷ 𝚙𝚛𝚎𝚜𝚎𝚗𝚝
-
-[![Real time views counter](https://count.getloli.com/get/@aixcyi?theme=gelbooru)](https://github.com/journey-ad/Moe-Counter)

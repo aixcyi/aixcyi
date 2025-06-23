@@ -1,6 +1,6 @@
-# 阿羽／Ayuu
+# 路狐羽／Navifox
 
-[![Website: https://ayuu.cc](https://img.shields.io/badge/website-ayuu.cc-mediumseagreen?style=for-the-badge)](https://ayuu.cc) [![Blog: https://blog.ayuu.cc](https://img.shields.io/badge/blog-blog.ayuu.cc-mediumorchid?style=for-the-badge)](https://blog.ayuu.cc) [![Chatting in QQ Group `699090940`](https://img.shields.io/badge/qq%20group-699090940-salmon?style=for-the-badge)](https://qm.qq.com/q/ZqCGqpMXy8)
+[![Website: https://navifox.net](https://img.shields.io/badge/website-navifox.net-mediumseagreen?style=for-the-badge)](https://navifox.net) [![Blog: https://blog.navifox.net](https://img.shields.io/badge/blog-blog.navifox.net-mediumorchid?style=for-the-badge)](https://blog.navifox.net) [![Chatting in QQ Group `699090940`](https://img.shields.io/badge/qq%20group-699090940-salmon?style=for-the-badge)](https://qm.qq.com/q/ZqCGqpMXy8)
 
 - Furry, but haven't owned an OC yet
 - Senior Django developer (full-time, from March 2021)

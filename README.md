@@ -1,4 +1,4 @@
-# 林狐羽／Navifox
+# 路狐羽／Navifox
 
 [![Website: https://navifox.net](https://img.shields.io/badge/website-navifox.net-mediumseagreen?style=for-the-badge)](https://navifox.net) [![Blog: https://blog.navifox.net](https://img.shields.io/badge/blog-blog.navifox.net-mediumorchid?style=for-the-badge)](https://blog.navifox.net) [![Chatting in QQ Group `699090940`](https://img.shields.io/badge/qq%20group-699090940-salmon?style=for-the-badge)](https://qm.qq.com/q/ZqCGqpMXy8)
 

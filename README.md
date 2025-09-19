@@ -1,11 +1,10 @@
-# 路狐羽／Navifox
+# 阿羽
 
-[![Website: https://navifox.net](https://img.shields.io/badge/website-navifox.net-mediumseagreen?style=for-the-badge)](https://navifox.net) [![Blog: https://blog.navifox.net](https://img.shields.io/badge/blog-blog.navifox.net-mediumorchid?style=for-the-badge)](https://blog.navifox.net) [![Chatting in QQ Group `699090940`](https://img.shields.io/badge/qq%20group-699090940-salmon?style=for-the-badge)](https://qm.qq.com/q/ZqCGqpMXy8)
-
-- Furry, but haven't owned an OC yet
-- Senior Django developer (full-time, from March 2021)
+- 𝒇𝒖𝒓𝒓𝒚
+- Avid 𝘔𝘪𝘯𝘦𝘤𝘳𝘢𝘧𝘵 gamer
+- Senior backend developer (full-time, since 2021)
 - Designed and/or maintaing a catering system, a retail system, an e-commerce platform system
-- Once used nickname 砹小翼 and id `aixcyi`
+- Once used nickname 砹小翼
 
 ## Coding Statistics
 
